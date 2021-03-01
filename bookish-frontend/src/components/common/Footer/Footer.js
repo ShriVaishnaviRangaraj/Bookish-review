@@ -6,7 +6,7 @@ const cx = classNames.bind(styles);
 
 const Footer = () => (
   <footer className={cx('footer')}>
-    <div className={cx('content')}>© 2018 Copyright - Kim Keumtae</div>
+    <div className={cx('content')}>© 2021 Copyright - SVR</div>
   </footer>
 );
 

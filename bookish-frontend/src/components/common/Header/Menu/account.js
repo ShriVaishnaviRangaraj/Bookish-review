@@ -22,7 +22,7 @@ const accountMenuItems = (
    <DropdownItem id="login-item" tag={Link} to="/login" replace>
       <FontAwesomeIcon icon={faSignInAlt} /> Sign in
     </DropdownItem>
-    <DropdownItem tag={Link} to="/register">
+    <DropdownItem tag={Link} to="/login">
       <FontAwesomeIcon icon={faSignInAlt} /> Register
     </DropdownItem>
   </>
